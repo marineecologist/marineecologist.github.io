@@ -3,12 +3,15 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# type: twitter
+# icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# type: email
+# icon: "fas fa-envelope"
+# noblank: true # open link in current tab
+- type: tumblr
+  icon: 'fab fa-tumblr'   # icons powered by <https://fontawesome.com/>
+  url:  'http://autistic-about-snails.tumblr.com/'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 
 - type: rss
   icon: "fas fa-rss"
